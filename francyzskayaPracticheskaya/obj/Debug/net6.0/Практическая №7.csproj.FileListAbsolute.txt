@@ -1,0 +1,15 @@
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\bin\Debug\net6.0\Практическая №7.exe
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\bin\Debug\net6.0\Практическая №7.deps.json
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\bin\Debug\net6.0\Практическая №7.runtimeconfig.json
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\bin\Debug\net6.0\Практическая №7.dll
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\bin\Debug\net6.0\Практическая №7.pdb
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.csproj.AssemblyReference.cache
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.AssemblyInfoInputs.cache
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.AssemblyInfo.cs
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.csproj.CoreCompileInputs.cache
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.dll
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\refint\Практическая №7.dll
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.pdb
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\Практическая №7.genruntimeconfig.cache
+C:\Users\dimss\Desktop\francyzskayaPracticheskaya7-master\francyzskayaPracticheskaya\obj\Debug\net6.0\ref\Практическая №7.dll
